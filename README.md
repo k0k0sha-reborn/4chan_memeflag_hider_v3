@@ -4,7 +4,7 @@
 Greasemonkey/Violentmonkey/Tampermonkey/*Monkey module for hiding memeflags on 4chan.org/pol/
 
 # HOW TO USE
-Are you tired of memeflags on pol? Simply post the code in this repository's .js file into a new module for your Tampermonkey, Greasemonkey, Violentmonkey, etc. extension. Tested on Violentmonkey on both Firefox and Chromium-based manifest v3 browsers.
+Are you tired of memeflags on pol? Simply post the code in this repository's .js file into a new module for your Tampermonkey, Greasemonkey, Violentmonkey, etc. extension. Tested on Violentmonkey on both Firefox and Chromium-based manifest v3 browsers. No bloated glitchy 4chanX required. 
 
 <img width="1522" height="1080" alt="fallacies" src="https://github.com/user-attachments/assets/3009e7bf-9e12-4032-a24a-af35d64bb89a" />
 
